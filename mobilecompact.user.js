@@ -2,6 +2,7 @@
 // @name         Reddit Compact CPR
 // @namespace    http://tampermonkey.net/
 // @version      0.4
+// @downloadURL  https://raw.githubusercontent.com/grantmulholland/mobilecompact/refs/heads/main/mobilecompact.user.js
 // @description  reddit compact with tweaks, based on https://github.com/dlmarquis/reddit-compact-tm/blob/main/main.js
 // @author       palenerd, grantmulholland
 // @match        https://*.reddit.com/*
